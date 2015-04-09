@@ -3,7 +3,7 @@ Simple [lazo](https://github.com/lazojs/lazo/) example that
 renders "Hello, {{fname}} {{lname}}."
 
 ## Major Players
-The are the main pieces that create the route response.
+These are the main pieces that create the route response.
 
 ### app/app.json
 This defines the route response when the ip/domain(/) is hit.
